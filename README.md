@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohammed Azeem
+- 👀 I’m interested in Python Coding  
+- 🌱 I’m currently learning Machine Learning
+- 📫 My instagram @azoomy4
