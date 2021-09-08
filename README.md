@@ -11,5 +11,5 @@ I'm a practicing software developer, working on various projects mainly based on
 </p>
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=azoomy.azoomy" alt="visitor badge"/>
 </p>
