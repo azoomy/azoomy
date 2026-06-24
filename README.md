@@ -65,6 +65,6 @@ js        ▓▓▓▓▓▓░░░░
 > connect
 ```
 
-[`linkedin`](https://www.linkedin.com/in/azeem-mohammed) · [`blog`](https://azoomybuilds.hashnode.dev/) · [`github`](https://github.com/azoomy)
+[`linkedin`](https://www.linkedin.com/in/azeem-mohammed) · [`blog`](https://azoomybuilds.hashnode.dev/)
 
 </div>
