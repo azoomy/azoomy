@@ -19,14 +19,16 @@
 
 azoomy — building things for screens that fit in your pocket.
 primarily flutter, but happy anywhere there's a compiler.
+lately: digging into machine learning & neural networks, one model at a time.
 ```
 
 ```text
 > currently_building
 
 [ tempo ]          ·  ▓▓▓▓▓▓▓▓░░  in progress  (private)
-[ ai expense ]     ·  ▓▓▓▓▓░░░░░  tracking spend with a brain
+[ ai expense ]     ·  ▓▓▓▓▓░░░░░  tracking spend with a brain  (private)
 [ schulte table ]  ·  ▓▓▓▓▓▓▓░░░  a little game for your eyes
+[ deep learning ]  ·  ▓▓▓░░░░░░░  learning in public
 ```
 
 ```text
